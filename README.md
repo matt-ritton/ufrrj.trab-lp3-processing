@@ -11,7 +11,7 @@ O projeto era de livre criação desde que usasse as tecnologias citadas, então
 
 Clone o repositório
 
-    git clone https://github.com/matheusritton/trabalho-lp3-processing.git
+    git clone https://github.com/matheusritton/ufrrj.trab-lp3-processing.git
     
 Instale a biblioteca Processing para Java em sua IDE (de preferência Eclipse). Tutorial abaixo:
     
